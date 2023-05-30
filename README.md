@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Rey Malulan
 - 👀 I’m interested in React
-- 🌱 I’m currently learning TypeScript and SASS
+- 🌱 I’m currently learning NextJS and Tailwind
 - 📫 You can reach me email @ johnreymalulan@gmail.com
 
 <!---
